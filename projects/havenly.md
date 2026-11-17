@@ -1,6 +1,6 @@
 # Havenly: student community and housing app for Dubai
 
-**Repo:** https://github.com/tadiwachirambamhanda-cyber/havenly · **Stack:** React Native, Expo, TypeScript, Supabase (Postgres, Auth, Storage, Realtime), React Navigation, Vercel (web)
+**Live web build:** https://havenly-app-zeta.vercel.app · **Repo:** https://github.com/tadiwachirambamhanda-cyber/havenly · **Stack:** React Native, Expo, TypeScript, Supabase (Postgres, Auth, Storage, Realtime), React Navigation, Vercel (web)
 
 ![Havenly screens: feed, post detail, Discover, profile](images/havenly-screens.png)
 
@@ -10,10 +10,13 @@
 A visual-first community app for students and young adults in Dubai: a card feed with editorial picks, Discover (spots and events), interest and campus communities, real-time direct messages, profiles, and a student housing section with listings, enquiries and a referral-fee pipeline.
 
 ## What I built
-- iOS and Android from one codebase, plus a web build deployed on Vercel.
-- **Supabase back end: 58 migrations, 28 tables, 122 row-level security policies**, real-time chat, account deletion that removes chat traces and uploads, block and report tables.
-- Safety and trust: an adversarial review that closed five security and data-safety holes, mutual-follow rule for group invites, draft privacy policy and terms, crash reporting, error screen.
-- Design and UX: Phosphor icon set, dark mode, skeleton loaders, UX-law fixes (Fitts, Doherty, Miller, Jakob), admin notifications for housing enquiries.
+I am the founder and sole builder: product, design, code and database.
+- iOS, Android and web from one codebase, with the web build live on Vercel.
+- 35 screens: masonry feed with editorial picks, Discover, interest and campus communities, real-time messages with message requests, group chats, a map, events, notifications and student perks that unlock as a daily streak grows.
+- Student housing: listings, enquiries, admin review and a referral-fee pipeline.
+- Supabase back end with 28 tables and 122 row-level security policies. Blocking and message requests are enforced in the database, not only on screen. Account deletion removes chat traces and uploads.
+- Trust and safety: an adversarial review closed five security holes; draft privacy policy and terms; crash reporting.
+- Design and UX: Phosphor icons, dark mode, skeleton loaders, UX-law fixes (Fitts, Doherty, Miller, Jakob).
 
 ## Numbers
 **162 commits** over 2 months, about **13,900 lines of TypeScript**, 60 SQL files, CI checks, launch PRD and technical requirements documents.
