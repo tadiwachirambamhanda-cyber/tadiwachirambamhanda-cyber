@@ -2,7 +2,7 @@
 
 **AI automation and full-stack developer, Dubai.** I build WhatsApp AI agents and mobile and web apps where the code makes the decisions and the AI only writes the words. Every project below has a written brief, acceptance criteria, automated tests and an independent review.
 
-> Finance undergraduate (Murdoch University Dubai) with client-account and startup experience. Open to junior AI engineer, agentic AI developer, AI automation and full-stack roles in the UAE. Finishing a course in AI for software development and agentic AI (Nov 2026).
+> Finance undergraduate (Murdoch University Dubai) with inventory, marketing-research and sales experience. Open to junior AI engineer, agentic AI developer, AI automation and full-stack roles in the UAE. Finishing a course in AI for software development and agentic AI (Nov 2026).
 
 ## Featured projects
 
