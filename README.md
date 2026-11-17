@@ -10,7 +10,7 @@
 |---|---|---|
 | [**Smile Book**](projects/smile-book.md) | Bilingual (English/Arabic) WhatsApp reminder agent for a Dubai dental clinic | **193 passing tests**, 14 features, 3 rounds of independent review |
 | [**Future Academy Desk**](projects/future-academy-desk.md) | WhatsApp enquiry agent that answers in English, Shona and Ndebele | **134 passing tests**, 30/30 end-to-end runs pass, about **$0.0055 per AI reply** |
-| [**Liwan Desk**](projects/liwan-desk.md) | WhatsApp front-desk agent for a Dubai dental clinic, with memory and hand-over to staff | Live on Vercel, Supabase memory, signed webhooks and rate limits |
+| [**Liwan Desk**](projects/liwan-desk.md) | WhatsApp front-desk agent for a Dubai dental clinic, with hand-over to staff | Live on Vercel, signed webhooks and rate limits |
 | [**Havenly**](projects/havenly.md) | Student community and housing app for Dubai (iOS and Android) | **162 commits**, about 13,900 lines of TypeScript, **122 row-level security policies** |
 | [**Tuitionless**](projects/tuitionless.md) | Scholarship matcher for students from any country | **169 scholarships**, 9 countries, built by 3 parallel lanes, live |
 
