@@ -1,8 +1,8 @@
-# Tadiwa Chirambamhanda
+# Tadiwanashe Chirambamhanda
 
 **AI automation and full-stack developer, Dubai.** I build WhatsApp AI agents and mobile and web apps where the code makes the decisions and the AI only writes the words. Every project below has a written brief, acceptance criteria, automated tests and an independent review.
 
-> Open to junior AI engineer, agentic AI developer, AI automation and full-stack roles in the UAE. Finishing a course in AI for software development and agentic AI (Nov 2026).
+> Finance undergraduate (Murdoch University Dubai) with client-account and startup experience. Open to junior AI engineer, agentic AI developer, AI automation and full-stack roles in the UAE. Finishing a course in AI for software development and agentic AI (Nov 2026).
 
 ## Featured projects
 
@@ -33,9 +33,13 @@ Also built: [**PaGaraji**](projects/pagaraji.md), a Zimbabwe spare-parts marketp
 
 [braces-reminders](https://github.com/tadiwachirambamhanda-cyber/braces-reminders) · [future-academy-desk](https://github.com/tadiwachirambamhanda-cyber/future-academy-desk) · [liwan-desk](https://github.com/tadiwachirambamhanda-cyber/liwan-desk) · [havenly](https://github.com/tadiwachirambamhanda-cyber/havenly) · [tuitionless](https://github.com/tadiwachirambamhanda-cyber/tuitionless) · [PaGaraji](https://github.com/tadiwachirambamhanda-cyber/PaGaraji)
 
-## Skills
+## Skills and tools
 
-TypeScript, Next.js (App Router), React, React Native and Expo, Node.js, Supabase (Postgres, Auth, Realtime, row-level security), SQL, Vercel, Claude API (Anthropic SDK), agent design, prompt-injection defence, classification with confidence thresholds, WhatsApp Business API (360dialog), Zod validation, Vitest, GitHub Actions CI, Git, bilingual (English/Arabic) product design.
+- **AI and agents:** Claude API (Anthropic SDK), **Jev classifier (TypeSafe AI SDK)**, agent design, LLM guardrails, prompt-injection defence, classification with confidence thresholds, reply validation, human hand-over, evaluation harnesses, AI cost and latency tracking.
+- **AI-assisted development:** Claude Code (custom skills, hooks, subagents, MCP connectors), OpenAI Codex as an independent code reviewer, written briefs, plans and acceptance criteria.
+- **Front end and mobile:** TypeScript, React 19, Next.js 16 (App Router), Tailwind CSS, React Native, Expo, Expo Router, React Navigation, Reanimated, Mapbox, react-native-maps.
+- **Back end and data:** Supabase (PostgreSQL, Auth, Storage, Realtime, row-level security, migrations, database functions), SQL, Node.js, REST, webhooks, Zod, WhatsApp Business API (360dialog).
+- **Quality and delivery:** Vitest, ESLint, GitHub Actions CI, Git and pull requests, Vercel (serverless, regions, cron), Sentry, independent code review.
 
 ## Contact
 
