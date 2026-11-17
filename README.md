@@ -36,7 +36,8 @@ Also built: [**PaGaraji**](projects/pagaraji.md), a Zimbabwe spare-parts marketp
 ## Skills and tools
 
 - **AI and agents:** Claude API (Anthropic SDK), **Jev classifier (TypeSafe AI SDK)**, agent design, LLM guardrails, prompt-injection defence, classification with confidence thresholds, reply validation, human hand-over, evaluation harnesses, AI cost and latency tracking.
-- **AI-assisted development:** Claude Code (custom skills, hooks, subagents, MCP connectors), OpenAI Codex as an independent code reviewer, written briefs, plans and acceptance criteria.
+- **AI-assisted development:** Claude Code (custom skills such as /brief, /plan, /build, /codex-review and /pr, hooks, subagent reviewers), OpenAI Codex as an independent code reviewer, written briefs, plans and acceptance criteria.
+- **MCP connectors:** Supabase, Vercel, Figma, Canva, Adobe Express, Google Drive and Sheets, Claude in Chrome (browser automation), iOS Simulator.
 - **Front end and mobile:** TypeScript, React 19, Next.js 16 (App Router), Tailwind CSS, React Native, Expo, Expo Router, React Navigation, Reanimated, Mapbox, react-native-maps.
 - **Back end and data:** Supabase (PostgreSQL, Auth, Storage, Realtime, row-level security, migrations, database functions), SQL, Node.js, REST, webhooks, Zod, WhatsApp Business API (360dialog).
 - **Quality and delivery:** Vitest, ESLint, GitHub Actions CI, Git and pull requests, Vercel (serverless, regions, cron), Sentry, independent code review.

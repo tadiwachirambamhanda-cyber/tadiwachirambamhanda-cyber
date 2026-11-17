@@ -2,9 +2,9 @@
 
 **Repo:** https://github.com/tadiwachirambamhanda-cyber/havenly · **Stack:** React Native, Expo, TypeScript, Supabase (Postgres, Auth, Storage, Realtime), React Navigation, Vercel (web)
 
-![Havenly sign-in and sign-up screens](images/havenly-screens.png)
+![Havenly screens: feed, post detail, Discover, profile](images/havenly-screens.png)
 
-*Sign-in and sign-up screens from the web build running locally. The signed-in app (feed, communities, messages, housing) holds real members' content, so it is not shown here.*
+*Feed, post detail, Discover and profile from the web build running locally. The posts shown are clearly labelled sample posts; no real members' content appears.*
 
 ## What it is
 A visual-first community app for students and young adults in Dubai: a card feed with editorial picks, Discover (spots and events), interest and campus communities, real-time direct messages, profiles, and a student housing section with listings, enquiries and a referral-fee pipeline.
